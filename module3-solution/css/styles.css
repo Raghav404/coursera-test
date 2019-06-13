@@ -1,0 +1,74 @@
+.navbar-default
+{
+	background-color:lightgrey;
+}
+.navbar-default .navbar-brand
+{
+	color: black;
+	font-family: "Corbel",Helvetica,Arial,sans-serif;
+	font-weight:bold;
+	font-size:2em;
+}
+.heading
+{
+	margin-top:30px;
+	text-align:center;
+	font-family: "Corbel",Helvetica,Arial,sans-serif;
+	font-size:48px;
+	font-weight:bold;
+}
+.test
+{
+	position: relative;
+	margin:50px;
+	border: solid black;
+	border-width:1px;
+	padding:15px;
+	font-size:1.4em;
+	background-color: lightgrey;
+}
+p span
+{
+	position:absolute;
+	width:97.7%;
+	text-align:center;
+	font-size:1.5em;
+	top:5px;
+}
+#collapsable-nav a 
+{
+    font-size: 1.2em;
+}
+#collapsable-nav a span 
+{
+    font-size: 1em;
+    margin-right: 5px;
+}
+.hey
+{
+	text-align:center;
+	background-color:white;
+	border: solid #000;
+	border-width:0.5px 1px 0.5px 1px;
+}
+.icon-bar
+{
+	text-rendering: auto;
+	text-align: center
+	border: 1px solid #61122f;
+}
+button.navbar-toggle, .icon-bar 
+{
+  border: 1px solid #61122f;
+}
+button.navbar-toggle 
+{
+  clear: both;
+  margin-top: -30px;
+}
+.navbar-toggle
+{
+	margin:10px;
+	padding:10px;
+	
+}
